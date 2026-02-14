@@ -1,0 +1,12 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+1ef641ba-d7f7-4565-8c31-18fa3d3141b2:Jitter Brushes:Jitter Brushes
+9e9974b5-1957-4aa8-8234-f4a5a7800179:Mixer brush:Mixer brush
+98c03056-3b9a-470e-8f71-d0ccb47fb95e:Texture brushes:Texture brushes
+932da6a7-0ef3-4123-9ef9-1187111ad54b:erasers:erasers
